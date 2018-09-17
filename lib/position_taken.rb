@@ -6,5 +6,5 @@ def position_taken?(board, index)
     return true
   end
 end
-
-#board[index] == nil ||
+board[index] == nil ||
+#
